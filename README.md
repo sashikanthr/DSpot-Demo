@@ -1,4 +1,4 @@
-#DSpot Demo
+# DSpot Demo
 This is a sample project to demonstrate DSpot, a tool to amplify your test cases.
 
 For more information and different options, you can visit:
@@ -20,7 +20,7 @@ can be passed as
 -Dtest-criterion
 ``` 
 
-###Some Commands
+### Some Commands
 To run tests with a selector.
 ```
 mvn eu.stamp-project:dspot-maven:amplify-unit-tests -Dtest-criterion=JacocoCoverageSelector
